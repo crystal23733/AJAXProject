@@ -1,3 +1,5 @@
-const dataForm = document.getElementById('data-form');
-const title = document.getElementById('title');
-const content = document.getElementById('content');
+// *선택자
+export const root = document.getElementById('root');
+export const dataForm = document.getElementById('data-form');
+export const title = document.getElementById('title');
+export const content = document.getElementById('content');
